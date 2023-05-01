@@ -5,4 +5,4 @@ This is a website made using html,css,j.s
 It is a static website named Tech Horizon,a Laptop company based one
 
 
-view lively on ===>   https://nandhagopn.github.io/TechHorizon/
+view lively on ===>   https://nandhagopan10.github.io/techhorizon/
